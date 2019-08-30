@@ -9,14 +9,10 @@ Below are screenshots of the progression of the App while deployed on Samsung No
 
 
 
-Thank you screen after order is completed:
-<div>
-  <div style="width: 50%">
-    Checkout Screen:<br>
-    <img src="https:agoracart.com/images/screenshot_checkout-sm.png">
-  </div>
-  <div style="width: 50%">
-    Thank you screen after order is completed:<br>
-    <img src="https:agoracart.com/images/screenshot_thanks-sm.png">
-  </div>
-</div>
+Checkout Screen:<br>
+<img src="https:agoracart.com/images/screenshot_checkout-sm.png">
+<br><br>
+    
+Thank you screen after order is completed:<br>
+<img src="https:agoracart.com/images/screenshot_thanks-sm.png">
+
