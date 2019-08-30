@@ -10,9 +10,9 @@ Below are screenshots of the progression of the App while deployed on Samsung No
 
 
 Checkout Screen:<br>
-<img src="https:agoracart.com/images/screenshot_checkout-sm.png">
+<img src="https://agoracart.com/images/screenshot_checkout-sm.png">
 <br><br>
     
 Thank you screen after order is completed:<br>
-<img src="https:agoracart.com/images/screenshot_thanks-sm.png">
+<img src="https://agoracart.com/images/screenshot_thanks-sm.png">
 
