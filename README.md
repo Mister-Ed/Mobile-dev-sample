@@ -1,5 +1,22 @@
 # Mobile Dev Sample
 
-Sample Mobile development project - academic class project.
+Sample Andriod Mobile development project - academic class project.
 
-Only a portion of the complete app was developed, so this is not fully functional Android App
+I was tasked with developed the ecommerce features of the Andriod app.
+The UI/UX was the emphasis, not connecting to databases, etc.
+
+Below are screenshots of the progression of the App while deployed on Samsung Note 5 phone"
+
+
+
+Thank you screen after order is completed:
+<div>
+  <div style="width: 50%">
+    Checkout Screen:<br>
+    <img src="https:agoracart.com/images/screenshot_checkout-sm.png">
+  </div>
+  <div style="width: 50%">
+    Thank you screen after order is completed:<br>
+    <img src="https:agoracart.com/images/screenshot_thanks-sm.png">
+  </div>
+</div>
