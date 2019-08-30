@@ -17,9 +17,9 @@ Sample Product Screen:<br>
 <br><br><br>
 
 Checkout Screen:<br>
-<img src="https://agoracart.com/images/screenshot_checkout-sm.png">
+<img src="https://agoracart.com/images/screenshot_checkout-sm2.png">
 <br><br><br>
     
 Thank you screen after order is completed:<br>
-<img src="https://agoracart.com/images/screenshot_thanks-sm.png">
+<img src="https://agoracart.com/images/screenshot_thanks-sm2.png">
 
