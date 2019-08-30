@@ -1,6 +1,6 @@
-# Mobile Dev Sample
+# Android Mobile Dev Sample
 
-Sample Andriod Mobile development project - academic class project.
+Sample Android mobile development project - academic class project.
 
 I was tasked with developed the ecommerce features of the Andriod app.
 The UI/UX was the emphasis, not connecting to databases, etc.
