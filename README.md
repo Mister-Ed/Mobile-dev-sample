@@ -7,7 +7,7 @@ The UI/UX was the emphasis, not connecting to databases, etc.
 
 Below are screenshots of the progression of the App while deployed on Samsung Note 5 phone.
 
-
+<br><br>
 Initial/Main Screen:<br><br>
 <img src="https://agoracart.com/images/screenshot_mainscreen-sm.png">
 <br><br><br><br>
