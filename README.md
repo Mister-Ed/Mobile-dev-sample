@@ -2,7 +2,7 @@
 
 Sample Android mobile development project - academic class project.
 
-I was tasked with developed the ecommerce features of the Andriod app.
+I was tasked with developing the ecommerce features of the Andriod app.
 The UI/UX was the emphasis, not connecting to databases, etc.
 
 Below are screenshots of the progression of the App while deployed on Samsung Note 5 phone.
